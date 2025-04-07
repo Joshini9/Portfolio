@@ -28,7 +28,7 @@ This is a responsive personal portfolio website created using HTML and CSS only.
 -> Contact Section: A simple contact form with name, email, address, phone, and message input.<br>
 -> Footer: Social links and a back-to-top arrow.<br>
 
- style.css:
+ style.css
 
 -> The design and layout are controlled using custom CSS:
 
